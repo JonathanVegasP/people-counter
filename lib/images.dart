@@ -1,0 +1,1 @@
+final String BG = "assets/images/bg.jpeg";
